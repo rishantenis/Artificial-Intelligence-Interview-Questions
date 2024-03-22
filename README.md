@@ -37,6 +37,7 @@ A "Glossary of Artificial Intelligence" is a concise reference resource defining
     <td><a href="https://rishantenis.github.io/category/statistics-roadmap-for-data-science-and-data-analysiss/"><img src="https://img.shields.io/badge/Docs-Statistics-blue?style=flat-square" alt="Statistics Docs"></a></td>
     <td><a href="https://www.youtube.com/watch?v=vWq0uezOeist=PLLUqkkC1ww4VJYDwXcozGbqexquiUoqoN"><img src="https://img.shields.io/badge/Tutorial-Statistics-red?style=flat-square&logo=youtube" alt="Statistics Tutorial"></a></td>
   </tr>
+  
   <tr>
     <td>5️⃣ Becoming A Python Developer</td>
     <td><a href="https://github.com/rishantenis/Becoming-a-Python-Developer"><img src="https://img.shields.io/badge/Code-Python_Developer-blue?style=flat-square&logo=github" alt="Python Developer Code"></a></td>
