@@ -15,6 +15,7 @@ A "Glossary of Artificial Intelligence" is a concise reference resource defining
   </tr>
   
   
+  
   <tr>
     <td>1️⃣ TensorFlow Developers Roadmap</td>
     <td><a href="https://github.com/rishantenis/TensorFlow-Developers-Roadmap"><img src="https://img.shields.io/badge/Code-TensorFlow_Developers-blue?style=flat-square&logo=github" alt="TensorFlow Developers Code"></a></td>
