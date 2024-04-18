@@ -4,6 +4,8 @@ A "Glossary of Artificial Intelligence" is a concise reference resource defining
 
 
 
+
+
 <center><h1>👨‍💻 Full Free Complete Artificial Intelligence Career Roadmap 👨‍💻</h1></center>
 <center>
 <table>
@@ -13,10 +15,6 @@ A "Glossary of Artificial Intelligence" is a concise reference resource defining
     <th>Documentation</th>
     <th>Tutorial</th>
   </tr>
-  
-  
-
-  
   <tr>
     <td>1️⃣ TensorFlow Developers Roadmap</td>
     <td><a href="https://github.com/rishantenis/TensorFlow-Developers-Roadmap"><img src="https://img.shields.io/badge/Code-TensorFlow_Developers-blue?style=flat-square&logo=github" alt="TensorFlow Developers Code"></a></td>
