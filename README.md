@@ -2,6 +2,7 @@
 A "Glossary of Artificial Intelligence" is a concise reference resource defining key terms, concepts, and terminology related to AI. It provides explanations and definitions to help individuals understand and navigate the field of artificial intelligence, making it a valuable tool for both beginners and experts in the AI domain..
 
 
+
 <center><h1>👨‍💻 Full Free Complete Artificial Intelligence Career Roadmap 👨‍💻</h1></center>
 <center>
 <table>
@@ -42,6 +43,7 @@ A "Glossary of Artificial Intelligence" is a concise reference resource defining
     <td><a href="https://rishantenis.github.io/category/becoming-a-python-developer/"><img src="https://img.shields.io/badge/Docs-Python-blue?style=flat-square" alt="Python Docs"></a></td>
     <td><a href="https://www.youtube.com/watch?v=caHk-gCDj&lis=PLLUqkkC1ww4WBMA0eJMartX13GXFylnNB"><img src="https://img.shields.io/badge/Tutorial-Python-red?style=flat-square&logo=youtube" alt="Python Tutorial"></a></td>
   </tr>
+
 
 
 
