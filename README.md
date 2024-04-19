@@ -44,7 +44,8 @@ A "Glossary of Artificial Intelligence" is a concise reference resource defining
     <td><a href="https://www.youtube.com/watch?v=caHk-gCDj&lis=PLLUqkkC1ww4WBMA0eJMartX13GXFylnNB"><img src="https://img.shields.io/badge/Tutorial-Python-red?style=flat-square&logo=youtube" alt="Python Tutorial"></a></td>
   </tr>
 
-  
+
+
   <tr>
     <td>6️⃣ Machine Learning Engineer Roadmap</td>
     <td><a href="https://github.com/rishantenis/Machine-Learning-Engineer-Roadmap"><img src="https://img.shields.io/badge/Code-Machine_Learning_Engineer-blue?style=flat-square&logo=github" alt="Machine Learning Engineer Code"></a></td>
